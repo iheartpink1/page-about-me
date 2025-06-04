@@ -1,0 +1,48 @@
+footer{
+    text-align: center;
+    color:rgb(44, 5, 71)
+}
+
+h1 {
+    text-align: center;
+    color:indigo
+}
+
+body {
+    background-color: rgb(217, 207, 219);
+    text-align: center;
+}
+
+article {
+    text-align: center;
+}
+.byefe{
+   float: left;
+   padding-left; 100%: 
+}
+
+a:hover {
+    color: rgb(18, 95, 236);
+}
+
+a {
+    color: rgb(71, 32, 99); 
+    border: 3px outset rgb(55, 17, 77);
+    margin: 10px;
+    padding: 0.2em;
+    width: 30%; 
+    background-color: rgb(235, 218, 245);
+    
+}
+
+.bye{
+    color:rgb(44, 5, 71)
+}
+.booyahh{
+    color:rgb(44, 5, 71);
+    text-wrap: wrap;
+    
+    background-color:rgb(231, 223, 235);
+    margin: 10px;
+    border: 3px outset rgb(55, 17, 77);
+}
